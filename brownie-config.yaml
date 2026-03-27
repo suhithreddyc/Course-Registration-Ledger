@@ -1,0 +1,9 @@
+networks:
+  default: ganache-local
+
+compiler:
+  solc:
+    version: "0.8.19"
+    optimizer:
+      enabled: true
+      runs: 200

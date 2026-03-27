@@ -1,0 +1,5 @@
+{
+  "contractAddress": "0xbb449933fba58BCDd3C9a73DEd2398523912Df6F",
+  "adminAddress": "0x5e00Dd137a01B50C6906147FD000ED3dA7835262",
+  "network": "ganache-local"
+}
