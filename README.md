@@ -163,6 +163,4 @@ Open the URL shown in the terminal (usually [http://localhost:8501](http://local
 
 ---
 
-## License
 
-Specify your license here (e.g. MIT).
