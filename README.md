@@ -180,6 +180,4 @@ For detailed requirement-by-requirement analysis, see **[REQUIREMENTS_EVALUATION
 
 ---
 
-## License
 
-Specify your license here (e.g. MIT).
